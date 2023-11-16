@@ -92,6 +92,6 @@
 
 <br>
 
-<a href="mailto:poiuy4004@naver.com" target="_blank">
-  <img src="https://github.com/poiuy4004/poiuy4004/assets/125282928/ed0a176c-3e92-4111-8bfb-c62a24cc9f79" width="100%" />
+<a href="mailto:poiuy4004@naver.com" target="_blank" align="center">
+  <img src="https://github.com/poiuy4004/poiuy4004/assets/125282928/ed0a176c-3e92-4111-8bfb-c62a24cc9f79" width="100%" align="center"/>
 </a>
