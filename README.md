@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <a href="https://poiuy4004.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-866BBA?style=flat-square&logo=GitHub-Sponsors&logoColor=white"/></a>
+  <a href="https://poiuy4004.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-866BBA?style=flat-square&logo=GitHub-Sponsors&logoColor=white"/></a>
   <a href="https://kkamjang.tistory.com/" target="_blank"><img src ="https://img.shields.io/badge/Blog-088A08?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="mailto:poiuy4004@naver.com" target="_blank"><img src="https://img.shields.io/badge/poiuy4004@naver.com-0000FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
