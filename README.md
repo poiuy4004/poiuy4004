@@ -70,8 +70,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9d5ddc.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
   
 </details>
-
-{/* <details>
+<--
+<details>
   <summary><h2>🗂 Projects</h2></summary>
 
   <details>
@@ -88,8 +88,8 @@
     
   </details>
   
-</details> */}
-
+</details>
+-->
 </div>
 
 <br>
