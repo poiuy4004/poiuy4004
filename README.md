@@ -71,7 +71,7 @@
   
 </details>
 
-(/* <details>
+{/* <details>
   <summary><h2>🗂 Projects</h2></summary>
 
   <details>
